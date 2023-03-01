@@ -1,2 +1,2 @@
 # E-College-Info
-my project
+Diploma Project
